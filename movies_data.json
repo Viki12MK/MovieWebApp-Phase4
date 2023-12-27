@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "movies": [
+      {
+        "id": 1,
+        "name": "Titanic",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "director": "James Cameron",
+        "year": "1997",
+        "rating": "7.9"
+      },
+      {
+        "id": 2,
+        "name": "The Third Half",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NzM5NjE0M15BMl5BanBnXkFtZTcwNTY2MDA2OA@@._V1_SX300.jpg",
+        "director": "Darko Mitrevski",
+        "year": "2012",
+        "rating": "7.4"
+      },
+      {
+        "id": 4,
+        "name": "Barbie",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "director": "Greta Gerwig",
+        "year": "2023",
+        "rating": "7.0"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "movies": [
+      {
+        "id": 3,
+        "name": "Armageddon",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "director": "Michael Bay",
+        "year": "1998",
+        "rating": "6.7"
+      },
+      {
+        "id": 1,
+        "name": "Titanic",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "director": "James Cameron",
+        "year": "1997",
+        "rating": "7.9"
+      },
+      {
+        "id": 2,
+        "name": "The Third Half",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTU1NzM5NjE0M15BMl5BanBnXkFtZTcwNTY2MDA2OA@@._V1_SX300.jpg",
+        "director": "Darko Mitrevski",
+        "year": "2012",
+        "rating": "7.4"
+      }
+    ]
+  }
+]
